@@ -1,0 +1,2 @@
+[14-Nov-2021 19:38:57 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/deltabd/public_html/public/assets/ts/get.php on line 7
+[14-Nov-2021 19:38:57 UTC] PHP Warning:  file_get_contents(https://translate.google.com/translate_tts?ie=UTF-8&amp;client=gtx&amp;q=Token%20Number%20%5BC%5D.%201000.%20Counter%20Number%201&amp;tl=bn): failed to open stream: no suitable wrapper could be found in /home/deltabd/public_html/public/assets/ts/get.php on line 7
